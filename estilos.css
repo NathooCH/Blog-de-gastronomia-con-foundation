@@ -1,0 +1,13 @@
+body
+{background: url(../img/fondo.jpg);
+background-size: 40%;
+background-repeat: repeat;}
+
+.username
+{color:#FF0040; }
+
+.fondo2
+{background-color: rgba(255, 175, 175, 0.8);}
+
+.titulos
+{color: #FFFFFF;}
